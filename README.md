@@ -2,7 +2,7 @@
 
 In this activity, I've created an Amazon-like storefront using MySQL. The app will take in orders from customers and deplete stock from the store's inventory. 
 
-* [click here for the link to my video walk-through](https://guides.github.com/features/mastering-markdown/)
+* [click here for the link to my video walk-through](https://drive.google.com/file/d/1-aSKspj19Qndx-Nj__NXXctrDnitI9WN/view?usp=sharing)
 
 ## Screenshots and Written Instructions
 ### Challenge #1: Customer View 
@@ -47,8 +47,10 @@ In this activity, I've created an Amazon-like storefront using MySQL. The app wi
     * Shows the customer the total cost of their purchase
     * And reflects the remaining quantity of the item. 
     
+![Bamazon MySQL Pic](/assets/images/fulfillorder.png)
+
      If the store _does_not, the app logs the phrase `Insufficient quantity!`, and then prevents the order from going through.
      
-![Bamazon MySQL Pic](/assets/images/prompts.png)
+![Bamazon MySQL Pic](/assets/images/insufficient.png)
 
     

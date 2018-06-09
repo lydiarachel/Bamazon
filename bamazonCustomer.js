@@ -87,7 +87,7 @@ connection.query("SELECT * FROM products;", function (err, data) {
       function(error) {
         if (error) throw err;
         console.log("Thank you for your order!");
-        console.log("Your total is " + (answer.unitsRequested * unitPrice));
+        console.log("Your total is $" + (answer.unitsRequested * unitPrice));
         
       });
     
