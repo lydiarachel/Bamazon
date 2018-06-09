@@ -25,7 +25,7 @@ In this activity, I've created an Amazon-like storefront using MySQL. The app wi
 
 ![Bamazon MySQL Pic](/assets/images/table.png)
 
-3. This database has around 10 different products. I've inserted "mock" data rows into this database and table).
+3. This database has around 10 different products. I've inserted "mock" data rows into this database and table.
 
 ![Bamazon MySQL Pic](/assets/images/productsIntable.png)
 
@@ -40,7 +40,7 @@ In this activity, I've created an Amazon-like storefront using MySQL. The app wi
 
 ![Bamazon MySQL Pic](/assets/images/inquirer.png)
 
-6. Once the customer has placed the order, using an if/else function with MySQL methods, the Bamazon app will check to see if the store has enough of the product to meet the customer's request.
+6. Once the customer has placed the order, using an if/else statement with NPM package MySQL methods, the Bamazon app will check to see if the store has enough of the product to meet the customer's request.
 
 7. If the store _does_ have enough of the product, 
     * Bamazon fulfills the customer's order
