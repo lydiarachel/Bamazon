@@ -49,7 +49,7 @@ In this activity, I've created an Amazon-like storefront using MySQL. The app wi
     
 ![Bamazon MySQL Pic](/assets/images/fulfillorder.png)
 
-     If the store _does_not, the app logs the phrase `Insufficient quantity!`, and then prevents the order from going through.
+If the store _does_not, the app logs the phrase `Insufficient quantity!`, and then prevents the order from going through.
      
 ![Bamazon MySQL Pic](/assets/images/insufficient.png)
 
